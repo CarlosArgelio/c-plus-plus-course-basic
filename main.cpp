@@ -5,5 +5,7 @@ using namespace std;
 int main() {
     int age = 19;
     string name = "Carlos";
-    cout << "Hello World my name is " << name << " and i have " << age << " years old";
+    char lettle = 'A';
+    cout << "Hello World my name is " << name << " and i have " << age << " years old" << endl;
+    cout << lettle;
 }
