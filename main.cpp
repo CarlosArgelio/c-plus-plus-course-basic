@@ -3,5 +3,7 @@
 using namespace std;
 
 int main() {
-    cout << "Hello World";
+    int age = 19;
+    string name = "Carlos";
+    cout << "Hello World my name is " << name << " and i have " << age << " years old";
 }
