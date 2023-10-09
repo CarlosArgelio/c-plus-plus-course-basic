@@ -38,6 +38,8 @@
 # outputs
 
 output/*
+/operators/output
+/input_and_output/output
 
 #vscode
 
