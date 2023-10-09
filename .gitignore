@@ -42,6 +42,7 @@ output/*
 /input_and_output/output
 /conditionals/output
 /functions/output
+/library/output
 
 #vscode
 
