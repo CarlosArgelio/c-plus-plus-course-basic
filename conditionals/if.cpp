@@ -13,5 +13,4 @@ int main() {
     } else {
         cout << "Puedes votar" << endl;
     }
-    
 }
